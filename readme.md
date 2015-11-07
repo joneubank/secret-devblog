@@ -11,4 +11,4 @@ Modifications are fairly minor and involve removing features more often than act
 ## Things
 ### Checkbox List:
 css added to show a list with checkboxes (checked or unchecked), usable for TODO list:
-![Image of checkbox list](https://github.com/joneubank/secret-devblog/git-img/checkbox-list.png)
+![Image of checkbox list](https://github.com/joneubank/secret-devblog/blob/master/git-img/checkbox-list.png?raw=true)
